@@ -7,4 +7,4 @@
 * Salt
 
 ## Instructions
-Recipe TBC.
+Recipe TBC. Must be added soon.
